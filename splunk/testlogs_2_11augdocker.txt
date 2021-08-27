@@ -1,0 +1,100 @@
+{"log":"2021-08-11 10:00:51.1602|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:30:51.163769831Z"}
+{"log":"2021-08-11 10:00:51.1799|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T00:30:51.183474187Z"}
+{"log":"2021-08-11 10:00:51.1891|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:30:51.191554348Z"}
+{"log":"2021-08-11 10:00:51.6204|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:30:51.623930409Z"}
+{"log":"2021-08-11 10:05:49.6702|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T00:35:49.671661008Z"}
+{"log":"2021-08-11 10:05:49.8779|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T00:35:49.879337069Z"}
+{"log":"2021-08-11 10:05:51.1634|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:35:51.168195313Z"}
+{"log":"2021-08-11 10:05:51.1803|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T00:35:51.18376549Z"}
+{"log":"2021-08-11 10:05:51.1900|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:35:51.191332505Z"}
+{"log":"2021-08-11 10:05:51.6251|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:35:51.627595416Z"}
+{"log":"2021-08-11 10:10:49.6724|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T00:40:49.675969705Z"}
+{"log":"2021-08-11 10:10:49.8777|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T00:40:49.88016744Z"}
+{"log":"2021-08-11 10:10:51.1672|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:40:51.171814068Z"}
+{"log":"2021-08-11 10:10:51.1797|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T00:40:51.183193034Z"}
+{"log":"2021-08-11 10:10:51.1885|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:40:51.191918061Z"}
+{"log":"2021-08-11 10:10:51.6274|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:40:51.631956657Z"}
+{"log":"2021-08-11 10:15:49.6743|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T00:45:49.675696442Z"}
+{"log":"2021-08-11 10:15:49.8778|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T00:45:49.879263457Z"}
+{"log":"2021-08-11 10:15:51.1705|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:45:51.171852754Z"}
+{"log":"2021-08-11 10:15:51.1798|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T00:45:51.183295642Z"}
+{"log":"2021-08-11 10:15:51.1886|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:45:51.191983058Z"}
+{"log":"2021-08-11 10:15:51.6324|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:45:51.640187778Z"}
+{"log":"2021-08-11 10:20:49.6749|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T00:50:49.67949919Z"}
+{"log":"2021-08-11 10:20:49.8781|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T00:50:49.879549422Z"}
+{"log":"2021-08-11 10:20:51.1711|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:50:51.175525229Z"}
+{"log":"2021-08-11 10:20:51.1798|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T00:50:51.183227953Z"}
+{"log":"2021-08-11 10:20:51.1885|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:50:51.191919725Z"}
+{"log":"2021-08-11 10:20:51.6394|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:50:51.643985378Z"}
+{"log":"2021-08-11 10:25:49.6781|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T00:55:49.679496092Z"}
+{"log":"2021-08-11 10:25:49.8777|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T00:55:49.880178148Z"}
+{"log":"2021-08-11 10:25:51.1754|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:55:51.180031286Z"}
+{"log":"2021-08-11 10:25:51.1799|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T00:55:51.183117688Z"}
+{"log":"2021-08-11 10:25:51.1884|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:55:51.191764376Z"}
+{"log":"2021-08-11 10:25:51.6447|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T00:55:51.647204002Z"}
+{"log":"2021-08-11 10:30:49.6801|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:00:49.683650697Z"}
+{"log":"2021-08-11 10:30:49.8786|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:00:49.880036721Z"}
+{"log":"2021-08-11 10:30:51.1782|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:00:51.179530432Z"}
+{"log":"2021-08-11 10:30:51.1793|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:00:51.183841578Z"}
+{"log":"2021-08-11 10:30:51.1894|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:00:51.191755713Z"}
+{"log":"2021-08-11 10:30:51.6493|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:00:51.65178427Z"}
+{"log":"2021-08-11 10:35:49.6863|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:05:49.687763256Z"}
+{"log":"2021-08-11 10:35:49.8786|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:05:49.879970138Z"}
+{"log":"2021-08-11 10:35:51.1779|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:05:51.17930446Z"}
+{"log":"2021-08-11 10:35:51.1792|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:05:51.183755882Z"}
+{"log":"2021-08-11 10:35:51.1891|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:05:51.191407678Z"}
+{"log":"2021-08-11 10:35:51.6521|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:05:51.655490499Z"}
+{"log":"2021-08-11 10:40:49.6829|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:10:49.687489897Z"}
+{"log":"2021-08-11 10:40:49.8778|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:10:49.879241143Z"}
+{"log":"2021-08-11 10:40:51.1796|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:10:51.183179451Z"}
+{"log":"2021-08-11 10:40:51.1796|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:10:51.183216622Z"}
+{"log":"2021-08-11 10:40:51.1889|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:10:51.191327456Z"}
+{"log":"2021-08-11 10:40:51.6579|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:10:51.659280498Z"}
+{"log":"2021-08-11 10:45:49.6862|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:15:49.687650831Z"}
+{"log":"2021-08-11 10:45:49.8783|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:15:49.879722632Z"}
+{"log":"2021-08-11 10:45:51.1810|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:15:51.183446494Z"}
+{"log":"2021-08-11 10:45:51.1834|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:15:51.188025753Z"}
+{"log":"2021-08-11 10:45:51.1896|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:15:51.191952444Z"}
+{"log":"2021-08-11 10:45:51.6619|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:15:51.663304123Z"}
+{"log":"2021-08-11 10:50:49.6890|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:20:49.691480546Z"}
+{"log":"2021-08-11 10:50:49.8781|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:20:49.879409025Z"}
+{"log":"2021-08-11 10:50:51.1871|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:20:51.191864972Z"}
+{"log":"2021-08-11 10:50:51.1871|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:20:51.191901196Z"}
+{"log":"2021-08-11 10:50:51.2160|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:20:51.219446907Z"}
+{"log":"2021-08-11 10:50:51.6624|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:20:51.663759137Z"}
+{"log":"2021-08-11 10:55:49.6903|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:25:49.69608852Z"}
+{"log":"2021-08-11 10:55:49.8783|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:25:49.87960793Z"}
+{"log":"2021-08-11 10:55:51.1910|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:25:51.195587119Z"}
+{"log":"2021-08-11 10:55:51.1910|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:25:51.195620331Z"}
+{"log":"2021-08-11 10:55:51.2156|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:25:51.22007359Z"}
+{"log":"2021-08-11 10:55:51.6670|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:25:51.671591611Z"}
+{"log":"2021-08-11 11:00:49.6951|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:30:49.699772186Z"}
+{"log":"2021-08-11 11:00:49.8779|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:30:49.879262513Z"}
+{"log":"2021-08-11 11:00:51.1967|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:30:51.200201612Z"}
+{"log":"2021-08-11 11:00:51.1967|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:30:51.200243485Z"}
+{"log":"2021-08-11 11:00:51.2201|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:30:51.22366391Z"}
+{"log":"2021-08-11 11:00:51.6721|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:30:51.675630745Z"}
+{"log":"2021-08-11 11:05:49.6975|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:35:49.699922648Z"}
+{"log":"2021-08-11 11:05:49.8782|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:35:49.879636939Z"}
+{"log":"2021-08-11 11:05:51.1989|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:35:51.200460448Z"}
+{"log":"2021-08-11 11:05:51.2202|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:35:51.223666754Z"}
+{"log":"2021-08-11 11:05:51.2299|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:35:51.231213203Z"}
+{"log":"2021-08-11 11:05:51.6765|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:35:51.680004482Z"}
+{"log":"2021-08-11 11:10:49.7009|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:40:49.7033717Z"}
+{"log":"2021-08-11 11:10:49.8774|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:40:49.879966371Z"}
+{"log":"2021-08-11 11:10:51.1988|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:40:51.203407367Z"}
+{"log":"2021-08-11 11:10:51.2194|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:40:51.223927311Z"}
+{"log":"2021-08-11 11:10:51.2295|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:40:51.231925944Z"}
+{"log":"2021-08-11 11:10:51.6817|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:40:51.687425865Z"}
+{"log":"2021-08-11 11:15:49.7023|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:45:49.703844746Z"}
+{"log":"2021-08-11 11:15:49.8782|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:45:49.879638015Z"}
+{"log":"2021-08-11 11:15:51.2037|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:45:51.207234843Z"}
+{"log":"2021-08-11 11:15:51.2192|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:45:51.223800316Z"}
+{"log":"2021-08-11 11:15:51.2292|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:45:51.231573061Z"}
+{"log":"2021-08-11 11:15:51.6886|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:45:51.695258531Z"}
+{"log":"2021-08-11 11:20:49.7040|INFO|Humm.Seller.Worker.Server.Workers.BankFileDerpReader|Running\n","stream":"stdout","time":"2021-08-11T01:50:49.707595719Z"}
+{"log":"2021-08-11 11:20:49.8780|INFO|Humm.Seller.Worker.Server.Workers.BankFileDishReader|Running\n","stream":"stdout","time":"2021-08-11T01:50:49.879380436Z"}
+{"log":"2021-08-11 11:20:51.2077|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:50:51.211229555Z"}
+{"log":"2021-08-11 11:20:51.2192|INFO|Humm.Seller.Worker.Server.Workers.BankHeaderProcessor|Get next from queue\n","stream":"stdout","time":"2021-08-11T01:50:51.223769816Z"}
+{"log":"2021-08-11 11:20:51.2297|INFO|Humm.Seller.Worker.Server.Workers.BankFileFailureProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:50:51.232098987Z"}
+{"log":"2021-08-11 11:20:51.6954|INFO|Humm.Seller.Worker.Server.Workers.BankFileReplyPaidProcessor|Running\n","stream":"stdout","time":"2021-08-11T01:50:51.700024073Z"}

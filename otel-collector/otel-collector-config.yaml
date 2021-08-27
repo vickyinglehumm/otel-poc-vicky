@@ -1,60 +1,27 @@
 receivers:
-  otlp:
-    protocols:
-      grpc:
-  hostmetrics:
-    collection_interval: 30s
-    scrapers:
-      cpu:
-      memory:
   filelog:
     include: [ /var/log/*.txt ]
-    #operators:    
-    #  - type: json_parser
-    #    timestamp:
-    #      parse_from: time
-    #      layout: '%Y-%m-%d %H:%M:%S'  
 
 exporters:
-  kafka:
-    brokers:
-      - 10.130.72.215:9091
-    protocol_version: 2.0.0
-  splunk_hec:
-    token: "abcd1234"
-    endpoint: "http://10.130.72.215:8088/services/collector"
-    source: "otel"
-    sourcetype: "otel"
-    insecure_skip_verify: true
+  awskinesis:
+    queue_size: 1
+    num_workers: 1
+    flush_interval_seconds: 3
+    max_bytes_per_batch: 4
+    max_bytes_per_span: 5
+
+    aws:
+        region: ap-southeast-2
+        stream_name: dev_cde_tstream
+        role: arn:aws:kinesis:ap-southeast-2:180949727245:stream/dev_cde_tstream
+        awskinesis_endpoint: kinesis.ap-southeast-2.amazonaws.com
 
 processors:
   batch:
 
-extensions:
-  health_check:
-  pprof:
-    endpoint: :1888
-  zpages:
-    endpoint: :55679
-
 service:
-  extensions: [pprof, zpages, health_check]
   pipelines:
     traces:
-      receivers: [otlp]
-      processors: [batch]
-      exporters: [kafka]
-    metrics:
-      receivers: [otlp]
-      processors: [batch]
-      exporters: [kafka]
-    #metrics:
-    #  receivers: [hostmetrics]
-    #  exporters: [kafka]
-    #logs:
-    #  receivers: [filelog]
-    #  processors: [batch]
-    #  exporters: [kafka]
-    logs:
       receivers: [filelog]
-      exporters: [splunk_hec]
+      processors: [batch]
+      exporters: [awskinesis]

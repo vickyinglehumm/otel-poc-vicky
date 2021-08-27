@@ -1,0 +1,58 @@
+receivers:
+  otlp:
+    protocols:
+      grpc:
+  hostmetrics:
+    collection_interval: 30s
+    scrapers:
+      cpu:
+      memory:
+  filelog:
+    include: [ /var/log/*.txt ]
+    #operators:    
+    #  - id: stdout
+    #    type: stdout
+
+exporters:
+  kafka:
+    brokers:
+      - 10.130.72.215:9091
+    protocol_version: 2.0.0
+  splunk_hec:
+    token: "abcd1234"
+    endpoint: "http://10.130.72.215:8088/services/collector"
+    source: "otel"
+    sourcetype: "otel"
+    insecure_skip_verify: true
+
+processors:
+  batch:
+
+extensions:
+  health_check:
+  pprof:
+    endpoint: :1888
+  zpages:
+    endpoint: :55679
+
+service:
+  extensions: [pprof, zpages, health_check]
+  pipelines:
+    traces:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [splunk_hec]
+    metrics:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [splunk_hec]
+    #metrics:
+    #  receivers: [hostmetrics]
+    #  exporters: [kafka]
+    #logs:
+    #  receivers: [filelog]
+    #  processors: [batch]
+    #  exporters: [kafka]
+    logs:
+      receivers: [filelog]
+      exporters: [splunk_hec]
